@@ -1,0 +1,54 @@
+company_name,model_name,fuel_type,bodystyle,car_length
+alfa-romero giulia,giulia,gas,convertible,168.8
+alfa-romero stelvio,stelvio,gas,convertible,168.8
+alfa-romero Quadrifoglio,quadrifoglio,gas,hatchback,171.2
+audi 100 ls,100 ls,gas,sedan,176.6
+,,,,
+audi fox,fox,gas,sedan,177.3
+,,,,
+audi 5000,5000,gas,wagon,192.7
+honda accord cvcc,accord cvcc,gas,hatchback,150
+honda civic cvcc,civic cvcc,gas,hatchback,150
+honda accord lx,accord lx,gas,sedan,163.4
+honda civic 1500 gl,civic 1500 gl,gas,wagon,157.1
+honda accord,accord,gas,hatchback,167.5
+toyota corona mark ii,corona mark ii,gas,hatchback,158.7
+toyota corona,corona,gas,hatchback,158.7
+toyota corolla 1200,corolla 1200,gas,hatchback,158.7
+toyota corona hardtop,corona hardtop,gas,wagon,169.7
+toyota corolla 1600 (sw),corolla 1600 (sw),gas,wagon,169.7
+toyota carina,carina,gas,wagon,169.7
+toyota mark ii,mark ii,gas,sedan,166.3
+toyota corolla 1200,corolla 1200,gas,hatchback,166.3
+toyota corona,corona,diesel,sedan,166.3
+toyota corolla,corolla,diesel,hatchback,166.3
+toyota corona,corona,gas,sedan,166.3
+toyota corolla,corolla,gas,hatchback,166.3
+toyota mark ii,mark ii,gas,sedan,166.3
+toyota corolla liftback,corolla liftback,gas,sedan,168.7
+toyota corona,corona,gas,hatchback,168.7
+toyota celica gt liftback,celica gt liftback,gas,sedan,168.7
+toyota corolla tercel,corolla tercel,gas,hatchback,168.7
+toyota corona liftback,corona liftback,gas,hardtop,176.2
+toyota corolla,corolla,gas,hardtop,176.2
+toyota starlet,starlet,gas,hatchback,176.2
+toyota tercel,tercel,gas,hardtop,176.2
+toyota corolla,corolla,gas,hatchback,176.2
+toyota cressida,cressida,gas,convertible,176.2
+vokswagen rabbit,rabbit,diesel,sedan,171.7
+volkswagen 1131 deluxe sedan,1131 deluxe sedan,gas,sedan,171.7
+volkswagen model 111,model 111,diesel,sedan,171.7
+volkswagen type 3,type 3,gas,sedan,171.7
+volkswagen 411 (sw),411 (sw),gas,sedan,171.7
+volkswagen super beetle,super beetle,diesel,sedan,171.7
+volkswagen dasher,dasher,gas,sedan,171.7
+volkswagen dasher,dasher,gas,convertible,159.3
+volkswagen rabbit,rabbit,gas,hatchback,165.7
+,,,,
+volkswagen rabbit custom,rabbit custom,diesel,sedan,180.2
+volkswagen dasher,dasher,gas,wagon,183.1
+volvo 145e (sw),145e (sw),gas,sedan,188.8
+volvo 144ea,144ea,gas,wagon,188.8
+volvo 244dl,244dl,gas,sedan,188.8
+volvo 245,245,gas,wagon,188.8
+volvo 264gl,264gl,gas,sedan,188.8
